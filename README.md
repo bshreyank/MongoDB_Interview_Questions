@@ -1,9 +1,5 @@
 # MongoDB_Interview_Questions
 
-# Interview Questions
-
-## MongoDB
-
 ### Q1: Explain what is MongoDB? ☆
 
 **Answer:**
